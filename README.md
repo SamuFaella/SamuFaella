@@ -63,7 +63,7 @@ A backend module for product data notarization (Digital Product Passport):
 - signature workflow + callbacks
 - integrity checks (hashing)
 
-➡️ Repo: [https://github.com/SamuFaella/<YOUR_NOTARIZATION_REPO>](https://github.com/ri-uso/DPPSoftware/tree/notarization/samuele)
+➡️ Repo: [https://github.com/SamuFaella/DPP_Software_Notarization](https://github.com/ri-uso/DPPSoftware/tree/notarization/samuele)
 
 ### 🔹 Compiler / LLVM Exercises
 Academic projects focused on compiler internals and optimization:
